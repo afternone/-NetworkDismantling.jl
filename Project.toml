@@ -1,0 +1,4 @@
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+NetworkDismantle = "6677c0b7-01e5-5923-bd48-f146e079c653"
